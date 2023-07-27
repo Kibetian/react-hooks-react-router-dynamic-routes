@@ -38,6 +38,8 @@ function App() {
     { id: 3, title: "Inception" }
   ]);
 
+  
+
   return (
     <div>
       <NavBar />
